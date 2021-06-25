@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216603328081",
+    "firebase_url": "https://star-products-9470b.firebaseio.com",
+    "project_id": "star-products-9470b",
+    "storage_bucket": "star-products-9470b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216603328081:android:05ad6f5748ba46cce38270",
+        "android_client_info": {
+          "package_name": "com.example.starproducts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216603328081-tlp5nf3g3jab49umh7lofkc22788g8d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOPG0HJpBDt85URFWCnebPJTNxgqWodYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216603328081-tlp5nf3g3jab49umh7lofkc22788g8d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

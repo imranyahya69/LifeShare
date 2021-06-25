@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Life Share</string>
+    <string name="site">www.lifeshare.com</string>
+    <string name="slogan">Anybody can give blood</string>
+    <string name="dashName">Life Share</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+    <string name="aboutTitle">About</string>
+    <string name="products">Blood Banks</string>
+    <string name="info">Information</string>
+    <string name="help">Need help ?</string>
+    <string name="signUp">Sign Up Now</string>
+    <string name="alreadyAccount">Already have an account? Sign In</string>
+    <string name="location">Find donors</string>
+    <string name="contact">Contact Support</string>
+    <string name="contactDetailsEmail">
+        <b>Contact us by email:</b>
+        <i> imi7111990@gmail.com</i>
+
+    </string>
+    <string name="contactDetailsPhone">
+        <b>Contact us by phone number:</b>
+        <i> 0324-4303603</i>
+    </string>
+    <string name="aboutDetails">This application is built for helping the humanity by providing the blood services on
+        time and by all possible means. In this application a private donor, a private NGO, a private blood bank and a
+        government/private hospital will be providing blood for the needy people. This application will
+        provide a website to the NGOs, blood banks, hospitals with a friendly user interface so that they can
+        update blood availability with the time of blood transfusion. Donors will be provided the facility of updating their
+        status after giving blood, which will make them idle for three months. This application will also accept charity
+        from the ones who want to help our cause. This application will be available on android phones and web application
+        will also be available for all devices. In future we will make an IOS application as well.</string>
+</resources>
